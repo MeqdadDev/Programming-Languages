@@ -1,8 +1,6 @@
 # Programming Languages Projects
 
------------------
 ## Python
------------------
 
 - **[Image Histogrammer](https://github.com/MeqdadDarweesh/image-histogrammer)**
 
@@ -41,7 +39,6 @@ _Tags: Machine Learning, TensorFlow, Deep Learning, DNN Classifier, Neural Netwo
 
 -----------------
 ## Java
------------------
 
 - **[Homy - Smart Home System (Arduino + Android)](https://github.com/MeqdadDarweesh/Homy-Smart-Home-Manager-using-Bluetooth-Module-with-Arduino)**
 
@@ -50,7 +47,6 @@ _Tags: Android, Android Studio, Bluetooth, Home Automation_
 
 -----------------
 ## C++
------------------
 
 - **[Color Detector Using HUE Channel](https://github.com/MeqdadDarweesh/color-detector-using-hue-channel)**
 
@@ -59,7 +55,6 @@ _Tags: Image Processing, OpenCV, HSV, Colors_
 
 -----------------
 ## C
------------------
 
 - **[Parallel Computing - Matrix-Vector multiplication](https://github.com/MeqdadDarweesh/color-detector-using-hue-channel)**
 
