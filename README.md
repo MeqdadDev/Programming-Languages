@@ -56,6 +56,6 @@ _Tags: Image Processing, OpenCV, HSV, Colors_
 -----------------
 ## C
 
-- **[Parallel Computing - Matrix-Vector multiplication](https://github.com/MeqdadDarweesh/color-detector-using-hue-channel)**
+- **[Parallel Computing - Matrix-Vector multiplication](https://github.com/MeqdadDev/MPI_Matrix_Vector_Multiplication_Parallel_and_Sequential)**
 
 _Tags: Parallel Computing, MPI, Parallel Processing, Matrix Multiplication_
